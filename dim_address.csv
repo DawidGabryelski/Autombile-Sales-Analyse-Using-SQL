@@ -1,0 +1,90 @@
+﻿address_id;country;city;postal_code;address
+1;USA;NYC;10022;897 Long Airport Avenue
+2;France;Reims;51100;59 rue de l'Abbaye
+3;France;Paris;75508;27 rue du Colonel Pierre Avia
+4;USA;Pasadena;90003;78934 Hillside Dr.
+5;USA;Burlingame;94217;9408 Furth Circle
+6;France;Lille;59000;184, chausse de Tournai
+7;Norway;Bergen;N 5804;Drammen 121, PR 744 Sentrum
+8;France;Paris;75016;25, rue Lauriston
+9;Australia;Melbourne;3004;636 St Kilda Road
+10;USA;NYC;10022;2678 Kingston Rd.
+11;USA;Newark;94019;7476 Moss Rd.
+12;USA;Bridgewater;97562;25593 South Bay Ln.
+13;France;Nantes;44000;67, rue des Cinquante Otages
+14;USA;Cambridge;51247;39323 Spinnaker Dr.
+15;Finland;Helsinki;21240;Keskuskatu 45
+16;Norway;Stavern;4110;Erling Skakkes gate 78
+17;USA;Allentown;70267;7586 Pompton St.
+18;Austria;Salzburg;5020;Geislweg 14
+19;Australia;Chatswood;2067;Monitor Money Building, 815 Pacific Hwy
+20;USA;New Bedford;50553;1785 First Street
+21;UK;Liverpool;WX1 6LT;Berkeley Gardens 12  Brewery
+22;Spain;Madrid;28034;C/ Moralzarzal, 86
+23;Sweden;Lule;S-958 22;Berguvsvgen  8
+24;Spain;Madrid;28023;C/ Araquil, 67
+25;Singapore;Singapore;79903;Bronz Sok., Bronz Apt. 3/6 Tesvikiye
+26;USA;NYC;10022;5905 Pompton St.
+27;Australia;South Brisbane;4101;31 Duncan St. West End
+28;USA;Philadelphia;71270;782 First Street
+29;France;Lyon;69004;2, rue du Commerce
+30;Canada;Vancouver;V3F 2K1;1900 Oak St.
+31;USA;Burbank;94019;3675 Furth Circle
+32;USA;Cambridge;51247;4658 Baden Av.
+33;USA;New Haven;97823;567 North Pendale Street
+34;Japan;Minato-ku;106-0032;2-2-8 Roppongi
+35;Italy;Torino;10100;Via Monte Bianco 34
+36;Sweden;Boras;S-844 67;?kergatan 24
+37;France;Versailles;78000;67, avenue de l'Europe
+38;USA;San Rafael;97562;5677 Strong St.
+39;USA;Nashua;62005;2304 Long Airport Avenue
+40;USA;Brickhaven;58339;7825 Douglas Av.
+41;Australia;North Sydney;2060;201 Miller Street
+42;Canada;Montreal;H1J 1C3;43 rue St. Laurent
+43;Japan;Osaka;530-0003;Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku
+44;USA;Philadelphia;71270;11328 Douglas Av.
+45;France;Nantes;44000;54, rue Royale
+46;USA;White Plains;24067;3758 North Pendale Street
+47;Denmark;Kobenhavn;1734;Vinb'ltet 34
+48;UK;London;WX3 6FW;35 King George
+49;USA;New Bedford;50553;4575 Hillside Dr.
+50;France;Toulouse;31000;1 rue Alsace-Lorraine
+51;UK;London;WA1 1DP;120 Hanover Sq.
+52;Spain;Barcelona;8022;Rambla de Catalu¤a, 23
+53;USA;San Diego;91217;361 Furth Circle
+54;Belgium;Bruxelles;B-1180;Rue Joseph-Bens 532
+55;Canada;Tsawassen;T2F 8M4;23 Tsawassen Blvd.
+56;USA;Boston;51003;8616 Spinnaker Dr.
+57;UK;Cowes;PO31 7PJ;Garden House Crowther Way
+58;Finland;Oulu;90110;Torikatu 38
+59;USA;San Jose;94217;3086 Ingle Ln.
+60;France;Paris;75012;265, boulevard Charonne
+61;Austria;Graz;8010;Kirchgasse 6
+62;USA;Boston;51003;6251 Ingle Ln.
+63;Singapore;Singapore;69045;Village Close - 106 Linden Road Sandown
+64;Philippines;Makati City;1227 MM;15 McCallum Street - NatWest Center #13-03
+65;France;Marseille;13008;12, rue des Bouchers
+66;Germany;Koln;50739;Mehrheimerstr. 369
+67;Switzerland;Gensve;1203;Grenzacherweg 237
+68;Italy;Reggio Emilia;42100;Strada Provinciale 124
+69;USA;Brickhaven;58339;7635 Spinnaker Dr.
+70;Germany;Frankfurt;60528;Lyonerstr. 34
+71;Finland;Espoo;FIN-02271;Software Engineering Center, SEC Oy
+72;USA;NYC;10022;4092 Furth Circle
+73;Ireland;Dublin;2;25 Maiden Lane
+74;Spain;Madrid;28023;Merchants House, 27-30 Merchant's Quay
+75;UK;Manchester;EC2 5NT;Fauntleroy Circus
+76;Denmark;Aaarhus;8200;Smagsloget 45
+77;USA;NYC;10022;5290 North Pendale Street
+78;USA;Glendale;92561;4097 Douglas Av.
+79;Spain;Sevilla;41101;C/ Romero, 33
+80;USA;Brisbane;94217;2793 Furth Circle
+81;France;Strasbourg;67000;24, place Kluber
+82;USA;Las Vegas;83030;8489 Strong St.
+83;Norway;Oslo;N 0106;Drammensveien 126 A, PB 744 Sentrum
+84;Italy;Bergamo;24100;Via Ludovico il Moro 22
+85;Australia;Glen Waverly;3150;7 Allen Street
+86;USA;Glendale;97561;2440 Pompton St.
+87;Germany;Munich;80686;Hansastr. 15
+88;Belgium;Charleroi;B-6000;Boulevard Tirou, 255
+89;USA;Brickhaven;58339;16780 Pompton St.
