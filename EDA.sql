@@ -93,8 +93,6 @@ FROM fact_sales;
 
 -- 4. MEASURE EXPLORATION --
 
-SELECT * FROM fact_sales LIMIT 10;
-
 -- 4.1 ORDER QUANTITY -- 
 
 SELECT
